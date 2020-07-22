@@ -1,0 +1,16 @@
+/*body{
+    background-image: url(bonzo4.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+}
+*/
+.caruselflex{
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 90vh;
+    
+}
